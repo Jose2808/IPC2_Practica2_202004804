@@ -29,6 +29,15 @@ div.d4{
     width: 80%;
 }
 
+div.d5{
+    margin-top: 4.5%;
+    background-color: gray;
+    border-radius: 10px;
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+
 p.p1{
     font-size: small;
     color: gray;
